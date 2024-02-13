@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Usuário 1",
+      "idade": 50,
+      "perfil": "Presidente"
+    },
+    {
+      "id": 2,
+      "nome": "Usuário 2",
+      "idade": 40,
+      "perfil": "Diretor"
+    },
+    {
+      "id": 3,
+      "nome": "Usuário 3",
+      "idade": 30,
+      "perfil": "Supervisor"
+    },
+    {
+      "id": 4,
+      "nome": "lucas Silva",
+      "idade": "60",
+      "perfil": "Diretor"
+    },
+    {
+      "id": 5,
+      "nome": "lucas Silva",
+      "idade": "60",
+      "perfil": "Diretor"
+    }
+  ]
+}
