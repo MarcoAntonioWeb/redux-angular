@@ -1,0 +1,11 @@
+.cadastro {
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.titleCadastroUsuario {
+    font-size: 1.6rem;
+    font-weight: bold;
+}

@@ -1,23 +1,26 @@
-<p>cadastro-usuarios works!</p>
+<p class="titleCadastroUsuario">cadastro-usuarios works!</p>
 
-<form id="myForm" #f="ngForm" (ngSubmit)="addUsuario()">
-    <div class="col-6" style="display: none;">
-        <label for="id">Id</label>
-        <input id="id" name="id" [(ngModel)]="model.id" class="form-control" type="text">
-    </div>
-    <div class="col-6">
-        <label for="nome">Nome</label>
-        <input id="nome" name="nome" [(ngModel)]="model.nome" class="form-control" type="text">
-    </div>
-    <div class="col-6">
-        <label for="idade">Idade</label>
-        <input id="idade" name="idade" [(ngModel)]="model.idade" class="form-control" type="text">
-    </div>
-    <div class="col-6">
-        <label for="perfil">Perfil</label>
-        <input id="perfil" name="perfil" [(ngModel)]="model.perfil" class="form-control" type="text">
-    </div>
-    <div class="col-6">
-        <button type="submit" class="btn btn-primary">Adicionar</button>
-    </div>
-</form>
+<div class="cadastro">
+    <form id="myForm" #f="ngForm" (ngSubmit)="addUsuario(f)">
+        <div class="col-6" style="display: none;">
+            <label for="id">Id</label>
+            <input id="id" name="id" [(ngModel)]="model.id" class="form-control" type="text">
+        </div>
+        <div class="col-6 d-inline">
+            <label for="nome">Nome</label>
+            <input id="nome" name="nome" [(ngModel)]="model.nome" class="form-control" type="text" #inputField="ngModel">
+        </div>
+        <div class="col-6 d-inline">
+            <label for="idade">Idade</label>
+            <input id="idade" name="idade" [(ngModel)]="model.idade" class="form-control" type="text" #inputField="ngModel">
+        </div>
+        <div class="col-6 d-inline">
+            <label for="perfil">Perfil</label>
+            <input id="perfil" name="perfil" [(ngModel)]="model.perfil" class="form-control" type="text" #inputField="ngModel">
+        </div>
+        <div class="col-6 mt-2">
+            <button id="btnCadastro" type="submit" class="btn btn-primary">Adicionar</button>
+        </div>
+    </form>
+    
+</div>

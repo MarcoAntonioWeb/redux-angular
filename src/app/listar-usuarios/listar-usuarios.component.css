@@ -1,0 +1,14 @@
+.titleListaUsuario {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.listaUsuario {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.headerListUsuario {
+    font-weight: bold;
+}
