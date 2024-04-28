@@ -11,12 +11,11 @@ Criar a imprementação do <b>NGRX</b> onde vai ser colocado todos os conseitos 
 <li>Service HTTP</li>
 <li>Json Server</li>
 
-<div>
-    ### O diagrama a seguir representa o fluxo geral do estado do aplicativo no NgRx.
+
+### O diagrama a seguir representa o fluxo geral do estado do aplicativo no NgRx.
 
 ![Diagrama do NgRx](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/8ce995a0-05eb-4691-a5a4-706988ddedd3)
  
-</div>
 
 ## Foram criados três modelos de tela para interação do CRUD.
 <b>Observação:</b> Todas as telas que foram criadas são apenas didatico, e não focado e UX/UI e responsividade, o foco maior o no ngrx.  
