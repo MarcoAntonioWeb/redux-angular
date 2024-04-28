@@ -1,8 +1,38 @@
-# Redux
+# Criação de um CRUD com gerenciador de estado - NGRX Redux com Angular 13.3.11.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
+## Sobre.
 
-<li>Fazendo um teste para commit</li>
+Criar a imprementação do <b>NGRX</b> onde vai ser colocado todos os conseitos de ngrx reativo:
+<li>Store</li>
+<li>Reducers</li>
+<li>Actions</li>
+<li>Effects</li>
+<li>Selectors</li>
+<li>Service HTTP</li>
+<li>Json Server</li>
+
+<div>
+    ### O diagrama a seguir representa o fluxo geral do estado do aplicativo no NgRx.
+
+![Diagrama do NgRx](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/8ce995a0-05eb-4691-a5a4-706988ddedd3)
+ 
+</div>
+
+## Foram criados três modelos de tela para interação do CRUD.
+<b>Observação:</b> Todas as telas que foram criadas são apenas didatico, e não focado e UX/UI e responsividade, o foco maior o no ngrx.  
+
+### Primeiro tela Principal (Home).
+
+### Segunda tela de lista de usuário (Tabela).
+
+### Terceira tela cadastro de usuário (Formulário).
+
+
+## Primeiramente instalar o Node.js se ainda não foi instalado.
+
+Instalação do [Node.Js LTS](https://nodejs.org/en/) versões atuais.
+
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 13.3.11.
 
 ## Development server
 
