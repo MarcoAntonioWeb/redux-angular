@@ -20,15 +20,14 @@ Criar a imprementação do <b>NGRX</b> onde vai ser colocado todos os conseitos 
 ## Foram criados três modelos de tela para interação do CRUD.
 <b>Observação:</b> Todas as telas que foram criadas são apenas didatico, e não focado e UX/UI e responsividade, o foco maior o no ngrx.  
 
-### Primeiro tela Principal é lista de usuário(Home).
+### Primeiro tela Principal é lista de usuário.
 ![lista-usuario-trabalho](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/2a8ebd95-0669-427f-89be-e5fa70704a49)
 
-### Segunda tela é formulario de usuário (Tabela).
+### Segunda tela é formulario de usuário.
 ![formulario-usuario-trabalho](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/add1c6c2-3f4f-4f61-ace9-521d6b2b095a)
 
-
-### Terceira tela é atualização de cadastro de usuário (Formulário).
-
+### Terceira tela é atualização de cadastro de usuário.
+![atualização-cadastro-usuario](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/b0ced4dd-3608-4bbb-b2d2-f496db95e098)
 
 ## Primeiramente instalar o Node.js se ainda não foi instalado.
 
