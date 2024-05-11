@@ -29,6 +29,12 @@
       "nome": "Claudio Cesar",
       "idade": "50",
       "perfil": "Diretor"
+    },
+    {
+      "id": 6,
+      "nome": "Wallace Mota Campos",
+      "idade": "38",
+      "perfil": "Funcionario"
     }
   ]
 }
