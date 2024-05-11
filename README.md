@@ -21,6 +21,7 @@ Criar a imprementação do <b>NGRX</b> onde vai ser colocado todos os conseitos 
 <b>Observação:</b> Todas as telas que foram criadas são apenas didatico, e não focado e UX/UI e responsividade, o foco maior o no ngrx.  
 
 ### Primeiro tela Principal (Home).
+![lista-usuario-trabalho](https://github.com/MarcoAntonioWeb/redux-angular/assets/55105011/2a8ebd95-0669-427f-89be-e5fa70704a49)
 
 ### Segunda tela de lista de usuário (Tabela).
 
